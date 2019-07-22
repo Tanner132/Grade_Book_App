@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{A0996307-2435-412D-B616-A72B127D3D3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBookApi/Properties/launchSettings.json">
+    <Files>
+      <File FileName="GradeBookApi/Program.cs" Line="1" Column="1" />
+      <File FileName="GradeBookApi/Startup.cs" Line="14" Column="16" />
+      <File FileName="GradeBookApi/Models/Grades.cs" Line="20" Column="41" />
+      <File FileName="GradeBookApi/Services/GradeBookService.cs" Line="42" Column="2" />
+      <File FileName="GradeBookApi/appsettings.json" Line="4" Column="96" />
+      <File FileName="GradeBookApi/Models/GradeBookDatabaseSettings.cs" Line="17" Column="2" />
+      <File FileName="GradeBookApi/Controllers/GradeBookController.cs" Line="10" Column="20" />
+      <File FileName="GradeBookApi/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="GradeBookApi/Properties/launchSettings.json" Line="24" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GradeBookApi" expanded="True">
+            <Node name="GradeBookApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GradeBookApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

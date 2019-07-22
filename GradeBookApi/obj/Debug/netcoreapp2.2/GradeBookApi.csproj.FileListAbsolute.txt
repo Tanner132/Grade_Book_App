@@ -1,0 +1,14 @@
+/Users/student/Projects/GradeBookApi/GradeBookApi/bin/Debug/netcoreapp2.2/GradeBookApi.deps.json
+/Users/student/Projects/GradeBookApi/GradeBookApi/bin/Debug/netcoreapp2.2/GradeBookApi.runtimeconfig.json
+/Users/student/Projects/GradeBookApi/GradeBookApi/bin/Debug/netcoreapp2.2/GradeBookApi.runtimeconfig.dev.json
+/Users/student/Projects/GradeBookApi/GradeBookApi/bin/Debug/netcoreapp2.2/GradeBookApi.dll
+/Users/student/Projects/GradeBookApi/GradeBookApi/bin/Debug/netcoreapp2.2/GradeBookApi.pdb
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.csprojAssemblyReference.cache
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.csproj.CoreCompileInputs.cache
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.RazorAssemblyInfo.cache
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.RazorAssemblyInfo.cs
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.AssemblyInfoInputs.cache
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.AssemblyInfo.cs
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.RazorTargetAssemblyInfo.cache
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.dll
+/Users/student/Projects/GradeBookApi/GradeBookApi/obj/Debug/netcoreapp2.2/GradeBookApi.pdb
